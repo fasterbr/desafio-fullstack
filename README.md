@@ -55,7 +55,7 @@ O objetivo principal deste desafio é avaliar as capacidades do candidato em:
 
 ## Requisitos técnicos do Backend( API )
 
-O Backend deverá ser desenvolvido em NodeJS(AdonisJS 5)!! :raised_hands:
+O Backend deverá ser desenvolvido em NodeJS(AdonisJS 5, NestJS, Express)!! :raised_hands:
 
 ### Obrigatórios
 
